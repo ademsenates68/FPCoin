@@ -1,0 +1,3 @@
+"""
+ProofCoin Test Suite.
+"""

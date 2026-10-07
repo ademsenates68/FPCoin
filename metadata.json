@@ -1,0 +1,8 @@
+{
+  "name": "ProofCoin - Proof of Useful Work Blockchain",
+  "description": "Production-grade Proof of Useful Work (PoUW) cryptocurrency prototype featuring Cunningham prime chain mining, Ed25519 cryptography, UTXO transaction model, and asyncio P2P network.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
